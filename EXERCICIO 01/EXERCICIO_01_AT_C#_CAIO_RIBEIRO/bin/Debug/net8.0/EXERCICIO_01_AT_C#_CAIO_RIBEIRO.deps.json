@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EXERCICIO_01_AT_C#_CAIO_RIBEIRO/1.0.0": {
+        "runtime": {
+          "EXERCICIO_01_AT_C#_CAIO_RIBEIRO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EXERCICIO_01_AT_C#_CAIO_RIBEIRO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
